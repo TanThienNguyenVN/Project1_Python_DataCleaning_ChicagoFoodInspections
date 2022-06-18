@@ -4,3 +4,7 @@
 - This basic notebook will help me to see how Python can be used to automate powerful data manipulations with quite big data source excel file (~250MB)
 
 - There are some changes being made to retrieve more information
+
+- The notebook will be presented as a story so that we can easily follow up.
+
+- Now, let's get started [TanThienNguyen_Python_DataCleaning_ChicagoFoodInspections.ipynb](https://github.com/TanThienNguyenVN/Project1_Python_DataCleaning_ChicagoFoodInspections/blob/main/TanThienNguyen_Python_DataCleaning_ChicagoFoodInspections.ipynb)
